@@ -1,6 +1,6 @@
 {
-  "name": "react-pdf",
-  "version": "2.3.0",
+  "name": "@matsukaz/react-pdf",
+  "version": "2.3.1",
   "description": "Easily display PDF files in your React application.",
   "main": "build/entry.js",
   "es6": "src/entry.js",
@@ -50,7 +50,7 @@
     "babel-runtime": "^6.26.0",
     "lodash.once": "^4.1.1",
     "merge-class-names": "^1.1.1",
-    "pdfjs-dist": "^2.0.120",
+    "@matsukaz/pdfjs-dist": "2.0.123",
     "prop-types": ">=15.5",
     "react": ">=15.5",
     "react-dom": ">=15.5"
@@ -81,6 +81,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wojtekmaj/react-pdf.git"
+    "url": "https://github.com/matsukaz/react-pdf.git"
   }
 }
