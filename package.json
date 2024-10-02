@@ -1,6 +1,6 @@
 {
   "name": "@matsukaz/react-pdf",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "Easily display PDF files in your React application.",
   "main": "build/entry.js",
   "es6": "src/entry.js",
@@ -47,7 +47,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@matsukaz/pdfjs-dist": "^2.0.125",
+    "@matsukaz/pdfjs-dist": "2.0.125",
     "babel-runtime": "^6.26.0",
     "lodash.once": "^4.1.1",
     "merge-class-names": "^1.1.1",
